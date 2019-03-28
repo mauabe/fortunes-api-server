@@ -1,0 +1,25 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "Node server runnig Postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauabe/first_server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "postgresql"
+  ],
+  "author": "Mauricio Feldman-Abe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauabe/first_server/issues"
+  },
+  "homepage": "https://github.com/mauabe/first_server#readme"
+}
