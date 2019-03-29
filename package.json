@@ -4,6 +4,7 @@
   "description": "Node server runnig Postgresql",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index",
     "test": "test",
     "start": "node index"
   },
