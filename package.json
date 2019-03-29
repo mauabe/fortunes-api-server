@@ -25,5 +25,8 @@
   "homepage": "https://github.com/mauabe/first_server#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
   }
 }
