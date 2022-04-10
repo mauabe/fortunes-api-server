@@ -29,7 +29,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mixin-deep": "^2.0.1",
     "mocha": "^7.1.2",
     "set-value": "^4.0.1"
